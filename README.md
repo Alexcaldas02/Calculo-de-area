@@ -1,11 +1,11 @@
 # Cálculo de área
 Calculo de área de figuras geométricas
 
-# Quadrado
+## Quadrado
 A = l x l
 
-# Retângulo
+## Retângulo
 A = b x h
 
-# Círculo
+## Círculo
 A = π x r²
