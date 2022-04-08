@@ -1,0 +1,10 @@
+Cálculo de perímetro
+
+Quadrado
+P = l x 4
+
+Retângulo
+P = 2 x (b + h)
+
+Círculo
+P = 2 x pi x r
